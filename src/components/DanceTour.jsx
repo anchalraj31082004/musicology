@@ -11,9 +11,9 @@ const DanceTour = () => {
         <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eveniet <br />  praesentium consequuntur deserunt cum  dicta cupiditate .</h4>
       </div>
       <div className='flex justify-evenly gap-20'>
-        <TourCard img={`card1.png`} text="America" />
-        <TourCard img={`card2.png`} text="Aisa" />
-        <TourCard img={`card3.png`} text="Australia" />
+        <TourCard img={`card1.png`} text="AMERICA" />
+        <TourCard img={`card2.png`} text="ASIA" />
+        <TourCard img={`card3.png`} text="AUSTRALIA" />
       </div>
     </div>
   )
