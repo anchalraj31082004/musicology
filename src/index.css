@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-black:#303030;
+  --secondary-orange:#e8631c;
+}
