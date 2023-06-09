@@ -3,7 +3,7 @@ import Navbar from "./Navbar"
 
 const Header = () => {
   return (
-    <div className='bg-[url(/assets/hero.png)] w-screen h-screen bg-no-repeat bg-center bg-cover'>
+    <div className='bg-[url(/assets/hero.png)] h-screen bg-no-repeat bg-center bg-cover'>
       <Navbar/>
       <Hero />
     </div>
